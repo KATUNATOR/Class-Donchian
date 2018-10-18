@@ -12,3 +12,4 @@ To set value: int in_period (количество баров в периоде),
 Call the procedure ini() for initialization;
 Call the procedure main(), which creats 2 arrays (channels): double out_massH[],double out_massL[]
 Donchian.mq5 stores an examle of using the class.
+[Donchian in real life](Donchian.png)
