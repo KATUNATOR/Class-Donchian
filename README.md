@@ -1,4 +1,4 @@
-# Class-Donchian
+# Class Donchian
 Indicator for metatrading in MQL5
 
 The idea is based on the classic Donchain channel
